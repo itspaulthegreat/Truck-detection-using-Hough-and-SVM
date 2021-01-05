@@ -1,7 +1,7 @@
-Truck detection using Hough and SVM
+# **Truck detection using Hough and SVM**
 
 
-######Required information of Dataset source:
+###### Required information of Dataset source:
 1. ***https://github.com/udacity/CarND-Vehicle-Detection***
 2. ***http://www.gti.ssr.upm.es/data/Vehicle_database.html***
 3. ***http://www.cvlibs.net/datasets/kitti/***
@@ -16,7 +16,7 @@ We conver the image into a grayscale using OpenCV library
 Using cv2.cvtColor().
 
 
-##HOG FEATURE EXTRACTION AND TRAINING DATASET CREATION
+## **HOG FEATURE EXTRACTION AND TRAINING DATASET CREATION**
 
 We apply HOG method on the image array to get the corners.
 
@@ -29,7 +29,7 @@ We get feature and the resultant image like below.
 
 
 
-##SVM MODEL CLASSIFIER TRAINING
+## **SVM MODEL CLASSIFIER TRAINING**
 
 We created a train ,test split and train our model LinearSVC() on the training data and also we imporved
 our model using GridSearchCV to find best parameters.
@@ -38,7 +38,7 @@ We got c =100 and gamma =1 as our best parameter.
 
 
 
-##TEST THE MODEL (FIND CARS)!
+## **TEST THE MODEL (FIND CARS)!**
 
 We used our testing data to test the model.We took a image below 
 

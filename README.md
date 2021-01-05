@@ -1,2 +1,1 @@
 Truck detection
-  k

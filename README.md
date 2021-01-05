@@ -38,7 +38,7 @@ We got c =100 and gamma =1 as our best parameter.
 
 
 
-## **TEST THE MODEL (FIND CARS)!**
+#### **TEST THE MODEL (FIND CARS)!**
 
 We used our testing data to test the model.We took a image below 
 

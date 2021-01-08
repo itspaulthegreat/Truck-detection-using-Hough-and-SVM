@@ -48,14 +48,14 @@ We took ou ROI by resizing the image as below.
 
 ![d](https://user-images.githubusercontent.com/67842238/103687088-b9cfa480-4fb5-11eb-9177-52c01c77aca6.JPG)
 
-The resultant iage using our Trained SVM
+The resultant image using our Trained SVM
 
 ![result](https://user-images.githubusercontent.com/67842238/103687236-f56a6e80-4fb5-11eb-8456-bef21b893877.JPG)
 
 
 
 This is the final output. I am working on a better model and also working on to capture the same using my videocam.
-Cheers
+Cheers!
 
 
 

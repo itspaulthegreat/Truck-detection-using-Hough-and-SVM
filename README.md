@@ -15,6 +15,7 @@ An example is shown below
 We conver the image into a grayscale using OpenCV library
 Using cv2.cvtColor().
 
+#### *README*
 
 #### **HOG FEATURE EXTRACTION AND TRAINING DATASET CREATION**
 
